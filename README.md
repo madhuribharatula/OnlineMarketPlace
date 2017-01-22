@@ -2,7 +2,7 @@
 The website was created as a project requirement for CMPE272
 
 ## Cross Domain Online Market Place
-This project of Market Place is supposed to be an e-commerce website which should feature all the products of the individual sites created by students in the due course of CMPE272.
+Online Market Place aggregate products from different vendors(Individual sites of team members).
 
 ## Architecture
 ![Overall Architecture](./architecture.png)
@@ -25,8 +25,8 @@ https://youtu.be/6K_6x4uI8ck
 * Adding other login API’s.
 
 ## Team Members
-* Anubha Mandal (Individual site: http://2youfromm3.com/ )
+* Lakshmi Bharatula (Individual site: https://www.zetaplot.com )
 * Ketki Bhusari
 * Kshama nidhi
-* Lakshmi Bharatula
+* Anubha Mandal
 * Praneetha devireddy
